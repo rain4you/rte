@@ -25,15 +25,15 @@ global.linkgrupss = "https://chat.whatsapp.com/CzzfuhlZwTSL0gAytxMcXp"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Success',
+    success: '```Done Sayang !```',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    linkm: 'Linknya Mana Kak?',
+    wait: '```Tunggu Sebentar Sayang !```',
+    linkm: '```Linknya Mana Ayang?```',
     ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
 }
 global.limitawal = {
