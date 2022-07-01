@@ -2990,11 +2990,11 @@ quickReplyButton: {
 displayText: 'Contact Owner',
 id: 'owner'
 }  
-}, {
-quickReplyButton: {
-displayText: 'Script',
-id: 'sc'
 }
+
+
+
+
 }]
 let txt = `*「 Broadcast」*\n\n${text}`
 sock.send5ButImg(i, txt, "© Rain Cowokkullな", log0, btn, thum)
@@ -3030,11 +3030,11 @@ quickReplyButton: {
 displayText: 'Contact Owner',
 id: 'owner'
 }  
-}, {
-quickReplyButton: {
-displayText: 'Script',
-id: 'sc'
 }
+
+
+
+
 }]
 let txt = `*「 Broadcast」*\n\n${text}`
 sock.send5ButImg(yoi, txt, "© Rain Cowokkullな", log0, btn, thum)
@@ -3042,7 +3042,7 @@ sock.send5ButImg(yoi, txt, "© Rain Cowokkullな", log0, btn, thum)
 ads('Sukses Broadcast')
 }
 break
-case 'sc': case 'script': case 'donate': case 'donasi': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
+case 'donate': case 'donasi': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
 teks = `「 Rain Cowokkullな」\nhttps://youtube.com/channel/UC5WIsU9PIu65E4USm5s6MyQ`
 teks += `Dont Forget Donate`
 let buttons = [
